@@ -4,3 +4,4 @@ ButterOS is a fork of [LemonOS](lemonos.org). Its designed for simplicity
 ### 1 Dec 2021
 So after figuring out how to make this thing, i finally got this working
 ### 2 Dec 2021
+Only 29 days left until launch of butteros 2021... i need to stop watching YT
